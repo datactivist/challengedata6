@@ -1,5 +1,5 @@
 # CHALLENGE DATA 6
-# Liste des carnets de bord \(par ordre alphabétique\)
+# Liste des carnets de bord par groupe
 
 
 - [Groupe 1]()
