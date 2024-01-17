@@ -9,7 +9,7 @@
 - [Groupe 5]()
 - [Groupe 6]()
 - [Groupe 7]()
-- [Groupe 8]()
+- [Groupe 8](https://unmarred-column-076.notion.site/Carnet-de-Bord-11a8fca2ccda4ff39009cc30e571d77b)
 - [Groupe 9]()
 - [Groupe 10]()
 - [Groupe 11]()
